@@ -1,0 +1,3 @@
+type = custom/script
+exec = ~/.config/polybar/modules/restart_required/restart_required.sh
+interval = 5
