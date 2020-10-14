@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# shellcheck disable=SC1091
 source /etc/lsb-release
 
 RUNNING_KERNEL=$(uname -r)
